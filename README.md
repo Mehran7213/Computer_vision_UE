@@ -1,5 +1,5 @@
 ## Assignment 3 (Anomaly Detection, Object Tracking and Detection)
-Abschnittsübersicht
+
 # The assignment is due on 09.12.2025, 16:00
  
 Please be aware that in this assignment we train and evaluate some models, which requires time. Thus, kindly submit your assignment early and avoid submitting it at the last minute.
