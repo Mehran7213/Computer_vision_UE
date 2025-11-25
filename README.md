@@ -1,11 +1,12 @@
-## Assignment 2 (Feature Extraction and Segmentation)
-# The assignment is due on 24.11.2025, 16:00
+## Assignment 3 (Anomaly Detection, Object Tracking and Detection)
+
+# The assignment is due on 09.12.2025, 16:00
  
 Please be aware that in this assignment we train and evaluate some models, which requires time. Thus, kindly submit your assignment early and avoid submitting it at the last minute.
- 
-Any content unrelated to the assignment, such as images, Python code (functions or classes), additional packages, or libraries, etc., will result in a deduction of 50 points.
- 
-Important note
+Any content unrelated to the assignment, such as images, Python code (functions or classes), additional packages, or libraries, etc., will result in a deduction of 50 points
+
+# Important note
+
 In this assignment, you can use the default parameters in any built-in function unless specified otherwise.
 All cells must be executed; any unevaluated cell will not be considered, regardless of the correctness of the code.
 All cells must be indexed; any non-indexed cell will not be considered.
